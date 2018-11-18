@@ -19,5 +19,5 @@ public class MyApplication extends Application {
     public static Application getInstance() {
         return mApplication;
     }
-    
+
 }
