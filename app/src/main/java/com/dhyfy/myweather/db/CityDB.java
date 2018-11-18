@@ -8,6 +8,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.text.TextUtils;
 
+import com.dhyfy.myweather.bean.City;
 import com.way.bean.City;
 
 public class CityDB {
