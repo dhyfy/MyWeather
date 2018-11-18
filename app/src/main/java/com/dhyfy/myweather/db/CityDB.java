@@ -9,7 +9,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.text.TextUtils;
 
 import com.dhyfy.myweather.bean.City;
-import com.way.bean.City;
+
 
 public class CityDB {
 	public static final String CITY_DB_NAME = "city.db";
